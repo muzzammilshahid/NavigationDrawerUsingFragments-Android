@@ -1,4 +1,4 @@
-package com.example.navigationdrawerfragment;
+package com.deskconn.navigationdrawerfragment;
 
 import android.os.Bundle;
 
